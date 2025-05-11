@@ -1,0 +1,25 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+scikit-learn
+streamlit
+transformers
+torch
+sentencepiece
+datasets
+spacy
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+gensim
+vaderSentiment
+nltk
+pyLDAvis
+xgboost
+imblearn
+ta
+evaluate
+rouge_score 
+absl-py
+googletrans==3.1.0a0
+sentence_transformers
